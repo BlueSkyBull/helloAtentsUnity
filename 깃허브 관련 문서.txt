@@ -1,0 +1,13 @@
+git이란??  --> Version Control System
+	      //버전 관리 시스템
+Add 스테이지에 올린다
+push 업로드 
+
+Commit : 세이브 저장을 원하는 파일을 묶어서 커밋
+
+
+
+
+
+
+https://github.com/BlueSkyBull/helloAtentsUnity
